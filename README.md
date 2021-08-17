@@ -21,5 +21,5 @@ Joshua Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka. [paper](https:/
 6. **What Should Not Be Contrastive in Contrastive Learning**. ICLR2021. <br />
 Tete Xiao, Xiaolong Wang, Alexei A. Efros, Trevor Darrell. [paper](https://arxiv.org/abs/2008.05659)
 7. **Momentum Contrast for Unsupervised Visual Representation Learning**. CVPR2020. <br />
-Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. [paper](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1911.05722.pdf) [code](https://github.com/facebookresearch/moco)
+Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. [paper](https://arxiv.org/abs/1911.05722) [code](https://github.com/facebookresearch/moco)
 
