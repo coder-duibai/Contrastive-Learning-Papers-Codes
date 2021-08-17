@@ -34,6 +34,22 @@ Authors:Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pie
 Authors:Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin. [paper](https://arxiv.org/abs/2006.09882) [code](https://github.com/facebookresearch/swav)
 13. **[SimSiam] Exploring Simple Siamese Representation Learning**. CVPR2021. <br />
 Authors:Xinlei Chen, Kaiming He. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html) [code](https://github.com/PatrickHua/SimSiam/blob/main/models/simsiam.py)
+14. **Hard Negative Mixing for Contrastive Learning**. NIPS2020. <br />
+Authors:Yannis Kalantidis, Mert Bulent Sariyildiz, Noe Pion, Philippe Weinzaepfel, Diane Larlus. [paper](https://arxiv.org/abs/2010.01028)
+15. **Supervised Contrastive Learning**. NIPS2020. <br />
+Authors:Prannay Khosla, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu, Dilip Krishnan. [paper](https://arxiv.org/abs/2004.11362)
+16. **Contrastive Learning with Adversarial Examples**. NIPS2020. <br />
+Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
+17. **[LoCo] LoCo: Local Contrastive Representation Learning**. NIPS2020. <br />
+Authors:Yuwen Xiong, Mengye Ren, Raquel Urtasun. [paper](https://arxiv.org/abs/2008.01342)
+18. **What Makes for Good Views for Contrastive Learning?**. NIPS2020.  <br />
+Authors:Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phillip Isola. [paper](https://arxiv.org/abs/2005.10243)
+19. **[ContraGAN] ContraGAN: Contrastive Learning for Conditional Image Generation**. NIPS2020. <br />
+Authors:Minguk Kang, Jaesik Park. [paper](https://arxiv.org/abs/2006.12681) [code](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
+
+### Graph
+1. **Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
+Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
 
 
 
