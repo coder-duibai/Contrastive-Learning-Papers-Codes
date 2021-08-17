@@ -76,11 +76,10 @@ Authors:Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean. [Pa
 Authors:Lajanugen Logeswaran, Honglak Lee. [Paper](https://arxiv.org/abs/1803.02893)
 3. **XLNet: Generalized Autoregressive Pretraining for Language Understanding**.<br /> 
 Authors:Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le. [Paper](https://arxiv.org/abs/1906.08237)
-4. **A Mutual Information Maximization Perspective of Language Representation Learning**. 
+4. **A Mutual Information Maximization Perspective of Language Representation Learning**. <br /> 
 Authors:Lingpeng Kong, Cyprien de Masson d'Autume, Wang Ling, Lei Yu, Zihang Dai, Dani Yogatama. [Paper](https://arxiv.org/abs/1910.08350)
-
-- InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training. [[Paper]](https://arxiv.org/abs/2007.07834)
-
+5. **InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training**. <br /> 
+Authors:Zewen Chi, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia Song, Xian-Ling Mao, Heyan Huang, Ming Zhou. [Paper](https://arxiv.org/abs/2007.07834)
 ### Graph
 1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
 Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
