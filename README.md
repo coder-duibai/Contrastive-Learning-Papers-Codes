@@ -58,7 +58,15 @@ Authors:Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli. [paper](h
 1. **Time-Contrastive Networks: Self-Supervised Learning from Video**.<br />
 Authors: Pierre Sermanet; Corey Lynch; Yevgen Chebotar; Jasmine Hsu; Eric Jang; Stefan Schaal; Sergey Levine. [paper](https://ieeexplore.ieee.org/abstract/document/8462891)
 2. **Contrastive Multiview Coding**. <br />
-Authors:Yonglong Tian, Dilip Krishnan, Phillip Isola. [paper](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1906.05849.pdf) [code](https://github.com/HobbitLong/CMC/)
+Authors:Yonglong Tian, Dilip Krishnan, Phillip Isola. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58621-8_45) [code](https://github.com/HobbitLong/CMC/)
+3. **Learning Video Representations using Contrastive Bidirectional Transformer**.<br />
+Authors:Chen Sun, Fabien Baradel, Kevin Murphy, Cordelia Schmid. [paper](https://arxiv.org/abs/1906.05743)
+4. **End-to-End Learning of Visual Representations from Uncurated Instructional Videos**. CVPR2020.<br /> 
+Authors:Antoine Miech, Jean-Baptiste Alayrac, Lucas Smaira, Ivan Laptev, Josef Sivic, Andrew Zisserman. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.html) [code](https://www.di.ens.fr/willow/research/mil-nce/)
+5. ****
+
+
+
 
 ### NLP
 1. **[CALM] Pre-training Text-to-Text Transformers for Concept-centric Common Sense**. ICLR2021. <br />
