@@ -73,9 +73,13 @@ Authors:Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis 
 Authors:Andrew Rouditchenko, Angie Boggust, David Harwath, Brian Chen, Dhiraj Joshi, Samuel Thomas, Kartik Audhkhasi, Hilde Kuehne, Rameswar Panda, Rogerio Feris, Brian Kingsbury, Michael Picheny, Antonio Torralba, James Glass. [paper](https://arxiv.org/abs/2006.09199)
 9. **Self-Supervised MultiModal Versatile Networks**. NIPS2020. <br />
 Authors:Jean-Baptiste Alayrac, Adrià Recasens, Rosalia Schneider, Relja Arandjelović, Jason Ramapuram, Jeffrey De Fauw, Lucas Smaira, Sander Dieleman, Andrew Zisserman. [paper](https://arxiv.org/abs/2006.16228)
-10. **Memory-augmented Dense Predictive Coding for Video Representation Learning**.
+10. **Memory-augmented Dense Predictive Coding for Video Representation Learning**.<br />
 Authors:Tengda Han, Weidi Xie, Andrew Zisserman. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58580-8_19) [code](https://www.robots.ox.ac.uk/~vgg/research/DPC/)
-11. ****
+11. **Spatiotemporal Contrastive Video Representation Learning**.<br />
+Authors:Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui. [paper](https://arxiv.org/abs/2008.03800) [code](https://github.com/tensorflow/models/tree/master/official/)
+12. **Self-supervised Co-training for Video Representation Learning**. NIPS2020.<br />
+Authors:Tengda Han, Weidi Xie, Andrew Zisserman. [paper](https://arxiv.org/abs/2010.09709)
+
 
 
 
