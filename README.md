@@ -54,7 +54,7 @@ Authors:Yixiao Ge, Feng Zhu, Dapeng Chen, Rui Zhao, Hongsheng Li. [paper](https:
 1. **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**.<br />
 Authors:Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli. [paper](https://arxiv.org/abs/2006.11477) [code](https://github.com/pytorch/fairseq)
 
-### Videos
+### Videos & Multimodal
 1. **Time-Contrastive Networks: Self-Supervised Learning from Video**.<br />
 Authors: Pierre Sermanet; Corey Lynch; Yevgen Chebotar; Jasmine Hsu; Eric Jang; Stefan Schaal; Sergey Levine. [paper](https://ieeexplore.ieee.org/abstract/document/8462891)
 2. **Contrastive Multiview Coding**. <br />
@@ -63,8 +63,19 @@ Authors:Yonglong Tian, Dilip Krishnan, Phillip Isola. [paper](https://link.sprin
 Authors:Chen Sun, Fabien Baradel, Kevin Murphy, Cordelia Schmid. [paper](https://arxiv.org/abs/1906.05743)
 4. **End-to-End Learning of Visual Representations from Uncurated Instructional Videos**. CVPR2020.<br /> 
 Authors:Antoine Miech, Jean-Baptiste Alayrac, Lucas Smaira, Ivan Laptev, Josef Sivic, Andrew Zisserman. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.html) [code](https://www.di.ens.fr/willow/research/mil-nce/)
-5. ****
-
+5. **Multi-modal Self-Supervision from Generalized Data Transformations**.<br /> 
+Authors:Mandela Patrick, Yuki M. Asano, Polina Kuznetsova, Ruth Fong, João F. Henriques, Geoffrey Zweig, Andrea Vedaldi. [paper](https://arxiv.org/abs/2003.04298)
+6. **Support-set bottlenecks for video-text representation learning**. ICLR2021. <br />
+Authors:Mandela Patrick, Po-Yao Huang, Yuki Asano, Florian Metze, Alexander Hauptmann, João Henriques, Andrea Vedaldi. [paper](https://arxiv.org/abs/2010.02824)
+7. **Contrastive Learning of Medical Visual Representations from Paired Images and Text**. ICLR2021. <br />
+Authors:Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz. [paper](https://arxiv.org/abs/2010.00747)
+8. **AVLnet: Learning Audio-Visual Language Representations from Instructional Videos**.<br />
+Authors:Andrew Rouditchenko, Angie Boggust, David Harwath, Brian Chen, Dhiraj Joshi, Samuel Thomas, Kartik Audhkhasi, Hilde Kuehne, Rameswar Panda, Rogerio Feris, Brian Kingsbury, Michael Picheny, Antonio Torralba, James Glass. [paper](https://arxiv.org/abs/2006.09199)
+9. **Self-Supervised MultiModal Versatile Networks**. NIPS2020. <br />
+Authors:Jean-Baptiste Alayrac, Adrià Recasens, Rosalia Schneider, Relja Arandjelović, Jason Ramapuram, Jeffrey De Fauw, Lucas Smaira, Sander Dieleman, Andrew Zisserman. [paper](https://arxiv.org/abs/2006.16228)
+10. **Memory-augmented Dense Predictive Coding for Video Representation Learning**.
+Authors:Tengda Han, Weidi Xie, Andrew Zisserman. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58580-8_19) [code](https://www.robots.ox.ac.uk/~vgg/research/DPC/)
+11. ****
 
 
 
@@ -113,8 +124,4 @@ Authors:Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang. [Paper](https://ar
 1. **Contrastive Learning with Adversarial Examples**. NIPS2020. <br />
 Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
 
-### Multimodal
-1. **Support-set bottlenecks for video-text representation learning**. ICLR2021. <br />
-Authors:Mandela Patrick, Po-Yao Huang, Yuki Asano, Florian Metze, Alexander Hauptmann, João Henriques, Andrea Vedaldi. [paper](https://arxiv.org/abs/2010.02824)
-2. **Contrastive Learning of Medical Visual Representations from Paired Images and Text**. ICLR2021. <br />
-Authors:Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz. [paper](https://arxiv.org/abs/2010.00747)
+
