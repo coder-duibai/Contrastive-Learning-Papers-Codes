@@ -28,6 +28,14 @@ Authors:Xinlei Chen, Haoqi Fan, Ross Girshick, Kaiming He. [paper](https://arxiv
 Authors:Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton. [paper](https://arxiv.org/abs/2002.05709) [code](https://github.com/google-research/simclr)
 10. **[SimCLR v2] Big Self-Supervised Models are Strong Semi-Supervised Learners**. NIPS2020.<br />
 Authors:Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. [paper](https://arxiv.org/abs/2006.10029) [code](https://github.com/google-research/simclr)
+11. **[BYOL] Bootstrap your own latent: A new approach to self-supervised Learning**.<br />
+Authors:Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. [paper](https://arxiv.org/abs/2006.07733) [code](https://github.com/deepmind/deepmind-research/tree/master/byol)
+12. **[SwAV] Unsupervised Learning of Visual Features by Contrasting Cluster Assignments**. NIPS2020. <br />
+Authors:Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin. [paper](https://arxiv.org/abs/2006.09882) [code](https://github.com/facebookresearch/swav)
+13. **[SimSiam] Exploring Simple Siamese Representation Learning**. CVPR2021. <br />
+Authors:Xinlei Chen, Kaiming He. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html) [code](https://github.com/PatrickHua/SimSiam/blob/main/models/simsiam.py)
+
+
 
 
 
