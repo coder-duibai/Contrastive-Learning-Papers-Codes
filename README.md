@@ -51,6 +51,7 @@ Contrastive learning papers at the top conferences, research include, but are no
 <td>&ensp;</td>
 </tr>
 </table>
+
 ## PAPERS
 ### Survey Papers
 1. **A Survey on Contrastive Self-supervised Learning**. <br />
