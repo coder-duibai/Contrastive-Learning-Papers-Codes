@@ -70,6 +70,12 @@ Authors:Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul Bennet
 ### Graph
 1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
 Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
+2. **Contrastive Multi-View Representation Learning on Graphs**. ICML2020. <br />
+Authors:Kaveh Hassani, Amir Hosein Khasahmadi. [Paper]](https://arxiv.org/abs/2006.05582)
+3. **[GCC] GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training**. KDD2020. <br /> 
+Authors:Jiezhong Qiu, Qibin Chen, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Ding, Kuansan Wang, Jie Tang. [Paper]](https://arxiv.org/abs/2006.09963)
+4. **[InfoGraph] InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization**. ICLR2020. <br />
+Authors:Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang. [Paper]](https://arxiv.org/abs/1908.01000)
 
 ### Adversarial Learning
 1. **Contrastive Learning with Adversarial Examples**. NIPS2020. <br />
