@@ -64,15 +64,13 @@ Authors:Xinlei Chen, Kaiming He. [paper](https://openaccess.thecvf.com/content/C
 Authors:Yannis Kalantidis, Mert Bulent Sariyildiz, Noe Pion, Philippe Weinzaepfel, Diane Larlus. [paper](https://arxiv.org/abs/2010.01028)
 15. **Supervised Contrastive Learning**. NIPS2020. <br />
 Authors:Prannay Khosla, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu, Dilip Krishnan. [paper](https://arxiv.org/abs/2004.11362)
-16. **Contrastive Learning with Adversarial Examples**. NIPS2020. <br />
-Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
-17. **[LoCo] LoCo: Local Contrastive Representation Learning**. NIPS2020. <br />
+16. **[LoCo] LoCo: Local Contrastive Representation Learning**. NIPS2020. <br />
 Authors:Yuwen Xiong, Mengye Ren, Raquel Urtasun. [paper](https://arxiv.org/abs/2008.01342)
-18. **What Makes for Good Views for Contrastive Learning?**. NIPS2020.  <br />
+17. **What Makes for Good Views for Contrastive Learning?**. NIPS2020.  <br />
 Authors:Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phillip Isola. [paper](https://arxiv.org/abs/2005.10243)
-19. **[ContraGAN] ContraGAN: Contrastive Learning for Conditional Image Generation**. NIPS2020. <br />
+18. **[ContraGAN] ContraGAN: Contrastive Learning for Conditional Image Generation**. NIPS2020. <br />
 Authors:Minguk Kang, Jaesik Park. [paper](https://arxiv.org/abs/2006.12681) [code](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
-20. **[SpCL] Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID**. NIPS2020. <br />
+19. **[SpCL] Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID**. NIPS2020. <br />
 Authors:Yixiao Ge, Feng Zhu, Dapeng Chen, Rui Zhao, Hongsheng Li. [paper](https://arxiv.org/abs/2006.02713) [code](https://github.com/yxgeee/SpCL)
 
 ### [Audio](#content)
