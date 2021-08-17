@@ -22,11 +22,11 @@ Authors:Joshua Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka. [paper]
 Authors:Tete Xiao, Xiaolong Wang, Alexei A. Efros, Trevor Darrell. [paper](https://arxiv.org/abs/2008.05659)
 7. **[MoCo] Momentum Contrast for Unsupervised Visual Representation Learning**. CVPR2020. <br />
 Authors:Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. [paper](https://arxiv.org/abs/1911.05722) [code](https://github.com/facebookresearch/moco)
-8. **[MoCo V2] Improved Baselines with Momentum Contrastive Learning**. 
+8. **[MoCo v2] Improved Baselines with Momentum Contrastive Learning**. 
 Authors:Xinlei Chen, Haoqi Fan, Ross Girshick, Kaiming He. [paper](https://arxiv.org/abs/2003.04297) [code](https://github.com/facebookresearch/moco)
-9. **A Simple Framework for Contrastive Learning of Visual Representations**. ICML2020.<br />
+9. **[SimCLR] A Simple Framework for Contrastive Learning of Visual Representations**. ICML2020.<br />
 Authors:Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton. [paper](https://arxiv.org/abs/2002.05709) [code](https://github.com/google-research/simclr)
-10. **Big Self-Supervised Models are Strong Semi-Supervised Learners**. NIPS2020.<br />
+10. **[SimCLR v2] Big Self-Supervised Models are Strong Semi-Supervised Learners**. NIPS2020.<br />
 Authors:Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. [paper](https://arxiv.org/abs/2006.10029) [code](https://github.com/google-research/simclr)
 
 
