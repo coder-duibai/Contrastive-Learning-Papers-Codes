@@ -15,7 +15,7 @@ Contrastive learning papers at the top conferences, research include, but are no
 	<td>&emsp;<a href=#audio>2.2 Audio</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#video & multimodal>2.3 Videos & Multimodal</a></td>
+	<td>&emsp;<a href=#video and multimodal>2.3 Videos and Multimodal</a></td>
 	<td>&emsp;<a href=#NLP>2.4 NLP</a></td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ Authors:Yixiao Ge, Feng Zhu, Dapeng Chen, Rui Zhao, Hongsheng Li. [paper](https:
 1. **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**.<br />
 Authors:Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli. [paper](https://arxiv.org/abs/2006.11477) [code](https://github.com/pytorch/fairseq)
 
-### [Videos & Multimodal](#content)
+### [Videos and Multimodal](#content)
 1. **Time-Contrastive Networks: Self-Supervised Learning from Video**.<br />
 Authors: Pierre Sermanet; Corey Lynch; Yevgen Chebotar; Jasmine Hsu; Eric Jang; Stefan Schaal; Sergey Levine. [paper](https://ieeexplore.ieee.org/abstract/document/8462891)
 2. **Contrastive Multiview Coding**. <br />
