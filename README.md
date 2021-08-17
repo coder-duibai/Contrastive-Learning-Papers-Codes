@@ -32,7 +32,7 @@ Contrastive learning papers at the top conferences, research include, but are no
 ### [Survey Papers](#content)
 1. **A Survey on Contrastive Self-supervised Learning**. <br />
 Authors:Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon. [paper](https://arxiv.org/abs/2011.00362)
-### Computer Vision
+### [Computer Vision](#content)
 1. **[PCL] Prototypical Contrastive Learning of Unsupervised Representations**. ICLR2021. <br />
 Authors:Junnan Li, Pan Zhou, Caiming Xiong, Steven C.H. Hoi. [paper](https://arxiv.org/abs/2005.04966) [code](https://github.com/salesforce/PCL)
 2. **[BalFeat] Exploring Balanced Feature Spaces for Representation Learning**. ICLR2021. <br />
@@ -74,11 +74,11 @@ Authors:Minguk Kang, Jaesik Park. [paper](https://arxiv.org/abs/2006.12681) [cod
 20. **[SpCL] Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID**. NIPS2020. <br />
 Authors:Yixiao Ge, Feng Zhu, Dapeng Chen, Rui Zhao, Hongsheng Li. [paper](https://arxiv.org/abs/2006.02713) [code](https://github.com/yxgeee/SpCL)
 
-### Audio
+### [Audio](#content)
 1. **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**.<br />
 Authors:Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli. [paper](https://arxiv.org/abs/2006.11477) [code](https://github.com/pytorch/fairseq)
 
-### Videos & Multimodal
+### [Videos & Multimodal](#content)
 1. **Time-Contrastive Networks: Self-Supervised Learning from Video**.<br />
 Authors: Pierre Sermanet; Corey Lynch; Yevgen Chebotar; Jasmine Hsu; Eric Jang; Stefan Schaal; Sergey Levine. [paper](https://ieeexplore.ieee.org/abstract/document/8462891)
 2. **Contrastive Multiview Coding**. <br />
@@ -107,7 +107,7 @@ Authors:Tengda Han, Weidi Xie, Andrew Zisserman. [paper](https://arxiv.org/abs/2
 
 
 
-### NLP
+### [NLP](#content)
 1. **[CALM] Pre-training Text-to-Text Transformers for Concept-centric Common Sense**. ICLR2021. <br />
 Authors:Wangchunshu Zhou, Dong-Ho Lee, Ravi Kiran Selvam, Seyeon Lee, Xiang Ren. [paper](https://openreview.net/forum?id=3k20LAiHYL2) [code](https://github.com/INK-USC/CALM)
 2. **Residual Energy-Based Models for Text Generation**. ICLR2021. <br />
@@ -125,7 +125,7 @@ Authors:Nils Rethmeier, Isabelle Augenstein. [paper](https://openreview.net/foru
 8. **Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval**. ICLR2021. <br />
 Authors:Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul Bennett, Junaid Ahmed, Arnold Overwijk. [paper](https://arxiv.org/abs/2007.00808)
 
-### Language Contrastive Learning
+### [Language Contrastive Learning](#content)
 
 1. **Distributed Representations of Words and Phrases and their Compositionality**. 2013NIPS. <br />
 Authors:Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean. [Paper](https://arxiv.org/abs/1310.4546)
@@ -138,7 +138,7 @@ Authors:Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdi
 Authors:Lingpeng Kong, Cyprien de Masson d'Autume, Wang Ling, Lei Yu, Zihang Dai, Dani Yogatama. [Paper](https://arxiv.org/abs/1910.08350)
 5. **InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training**. <br /> 
 Authors:Zewen Chi, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia Song, Xian-Ling Mao, Heyan Huang, Ming Zhou. [Paper](https://arxiv.org/abs/2007.07834)
-### Graph
+### [Graph](#content)
 1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
 Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
 2. **Contrastive Multi-View Representation Learning on Graphs**. ICML2020. <br />
@@ -148,11 +148,11 @@ Authors:Jiezhong Qiu, Qibin Chen, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Di
 4. **[InfoGraph] InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization**. ICLR2020. <br />
 Authors:Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang. [Paper](https://arxiv.org/abs/1908.01000)
 
-### Adversarial Learning
+### [Adversarial Learning](#content)
 1. **Contrastive Learning with Adversarial Examples**. NIPS2020. <br />
 Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
 
-### Applications
+### [Applications](#content)
 1. **Contrastive Learning for Unpaired Image-to-Image Translation**.<br />
 Authors:Taesung ParkAlexei A. Efros, Richard ZhangJun-Yan Zhu. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_19)
 
