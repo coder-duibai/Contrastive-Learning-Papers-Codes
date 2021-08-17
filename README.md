@@ -53,8 +53,18 @@ Authors:Yixiao Ge, Feng Zhu, Dapeng Chen, Rui Zhao, Hongsheng Li. [paper](https:
 Authors:Wangchunshu Zhou, Dong-Ho Lee, Ravi Kiran Selvam, Seyeon Lee, Xiang Ren. [paper](https://openreview.net/forum?id=3k20LAiHYL2) [code](https://github.com/INK-USC/CALM)
 2. **Residual Energy-Based Models for Text Generation**. ICLR2021. <br />
 Authors:Yuntian Deng, Anton Bakhtin, Myle Ott, Arthur Szlam, Marc'Aurelio Ranzato. [paper](https://arxiv.org/abs/2004.11714)
-
-
+3. **Contrastive Learning with Adversarial Perturbations for Conditional Text Generation**. ICLR2021. <br />
+Authors:Seanie Lee, Dong Bok Lee, Sung Ju Hwang. [paper](https://arxiv.org/abs/2012.07280)
+4. **[CoDA] CoDA: Contrast-enhanced and Diversity-promoting Data Augmentation for Natural Language Understanding**. ICLR2021. <br />
+Authors:Yanru Qu, Dinghan Shen, Yelong Shen, Sandra Sajeev, Jiawei Han, Weizhu Chen. [paper](https://arxiv.org/abs/2010.08670)
+5. **[FairFil] FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders**. ICLR2021. <br />
+Authors:Pengyu Cheng, Weituo Hao, Siyang Yuan, Shijing Si, Lawrence Carin. [paper](https://arxiv.org/abs/2103.06413)
+6. **Towards Robust and Efficient Contrastive Textual Representation Learning**. ICLR2021. <br />
+Authors:Liqun Chen, Yizhe Zhang, Dianqi Li, Chenyang Tao, Dong Wang, Lawrence Carin. [paper](https://openreview.net/forum?id=mDAZVlBeXWx)
+7. **Self-supervised Contrastive Zero to Few-shot Learning from Small, Long-tailed Text data**. ICLR2021. <br />
+Authors:Nils Rethmeier, Isabelle Augenstein. [paper](https://openreview.net/forum?id=_cadenVdKzF)
+8. **Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval**. ICLR2021. <br />
+Authors:Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul Bennett, Junaid Ahmed, Arnold Overwijk. [paper](https://arxiv.org/abs/2007.00808)
 
 ### Graph
 1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
