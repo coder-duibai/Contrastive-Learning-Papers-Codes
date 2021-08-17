@@ -11,20 +11,20 @@ Contrastive learning papers at the top conferences, research include, but are no
 <tr><td colspan="2"><a href="#problems">2. Problems</a></td></tr> 
 
 <tr>
-	<td>&emsp;<a href=#graph-matching>2.1 Computer Vision</a></td>
-	<td>&emsp;<a href=#quadratic-assignment-problem>2.2 Audio</a></td>
+	<td>&emsp;<a href=#computer-vision>2.1 Computer Vision</a></td>
+	<td>&emsp;<a href=#audio-problem>2.2 Audio</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#travelling-salesman-problem>2.3 Videos & Multimodal</a></td>
-	<td>&emsp;<a href=#maximal-cut>2.4 NLP</a></td>
+	<td>&emsp;<a href=#video-multimodal-problem>2.3 Videos & Multimodal</a></td>
+	<td>&emsp;<a href=#NLP>2.4 NLP</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#vehicle-routing-problem>2.5 Language Contrastive Learning</a></td>
-	<td>&emsp;<a href=#computing-resource-allocation>2.6 Graph</a></td>
+	<td>&emsp;<a href=#language-contrastive-learning>2.5 Language Contrastive Learning</a></td>
+	<td>&emsp;<a href=#graph>2.6 Graph</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#job-shop-scheduling-problem>2.7 Adversarial Learning</a></td>
-	<td>&emsp;<a href=#bin-packing-problem>2.8 Applications</a></td>
+	<td>&emsp;<a href=#adversarial-learning>2.7 Adversarial Learning</a></td>
+	<td>&emsp;<a href=#applications>2.8 Applications</a></td>
 </tr>
 </table>
 
