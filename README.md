@@ -9,17 +9,25 @@ Contrastive learning papers at the top conferences, research include, but are no
 1. **A Survey on Contrastive Self-supervised Learning**. [paper](https://arxiv.org/abs/2011.00362)
 ### Computer Vision
 1. **Prototypical Contrastive Learning of Unsupervised Representations**. ICLR2021. <br />
-Junnan Li, Pan Zhou, Caiming Xiong, Steven C.H. Hoi. [paper](https://arxiv.org/abs/2005.04966) [code](https://github.com/salesforce/PCL)
+Authors:Junnan Li, Pan Zhou, Caiming Xiong, Steven C.H. Hoi. [paper](https://arxiv.org/abs/2005.04966) [code](https://github.com/salesforce/PCL)
 2. **Exploring Balanced Feature Spaces for Representation Learning**. ICLR2021. <br />
-Bingyi Kang, Yu Li, Sa Xie, Zehuan Yuan, Jiashi Feng. [paper](https://openreview.net/forum?id=OqtLIabPTit)
+Authors:Bingyi Kang, Yu Li, Sa Xie, Zehuan Yuan, Jiashi Feng. [paper](https://openreview.net/forum?id=OqtLIabPTit)
 3. **MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering**. ICLR2021. <br />
-Tsung Wei Tsai, Chongxuan Li, Jun Zhu. [paper](https://openreview.net/forum?id=gV3wdEOGy_V) [code](https://github.com/TsungWeiTsai/MiCE)
+Authors:Tsung Wei Tsai, Chongxuan Li, Jun Zhu. [paper](https://openreview.net/forum?id=gV3wdEOGy_V) [code](https://github.com/TsungWeiTsai/MiCE)
 4. **i-Mix: A Strategy for Regularizing Contrastive Representation Learning**. ICLR2021. <br />
-Kibok Lee, Yian Zhu, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin, Honglak Lee. [paper](https://arxiv.org/abs/2010.08887) [code](https://github.com/kibok90/imix) 
+Authors:Kibok Lee, Yian Zhu, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin, Honglak Lee. [paper](https://arxiv.org/abs/2010.08887) [code](https://github.com/kibok90/imix) 
 5. **Contrastive Learning with Hard Negative Samples**. ICLR2021. <br />
-Joshua Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka. [paper](https://arxiv.org/abs/2010.04592) [coder](https://github.com/joshr17/HCL)
+Authors:Joshua Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka. [paper](https://arxiv.org/abs/2010.04592) [coder](https://github.com/joshr17/HCL)
 6. **What Should Not Be Contrastive in Contrastive Learning**. ICLR2021. <br />
-Tete Xiao, Xiaolong Wang, Alexei A. Efros, Trevor Darrell. [paper](https://arxiv.org/abs/2008.05659)
+Authors:Tete Xiao, Xiaolong Wang, Alexei A. Efros, Trevor Darrell. [paper](https://arxiv.org/abs/2008.05659)
 7. **Momentum Contrast for Unsupervised Visual Representation Learning**. CVPR2020. <br />
-Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. [paper](https://arxiv.org/abs/1911.05722) [code](https://github.com/facebookresearch/moco)
+Authors:Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. [paper](https://arxiv.org/abs/1911.05722) [code](https://github.com/facebookresearch/moco)
+8. **Improved Baselines with Momentum Contrastive Learning**. 
+Authors:Xinlei Chen, Haoqi Fan, Ross Girshick, Kaiming He. [paper](https://arxiv.org/abs/2003.04297) [code](https://github.com/facebookresearch/moco)
+9. **A Simple Framework for Contrastive Learning of Visual Representations**. ICML2020.<br />
+Authors:Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton. [paper](https://arxiv.org/abs/2002.05709) [code](https://github.com/google-research/simclr)
+10. **Big Self-Supervised Models are Strong Semi-Supervised Learners**. NIPS2020.<br />
+Authors:Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. [paper](https://arxiv.org/abs/2006.10029) [code](https://github.com/google-research/simclr)
+
+
 
