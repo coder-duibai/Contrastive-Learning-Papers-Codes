@@ -32,6 +32,7 @@ Contrastive learning papers at the top conferences, research include, but are no
 ### [Survey Papers](#content)
 1. **A Survey on Contrastive Self-supervised Learning**. <br />
 Authors:Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon. [paper](https://arxiv.org/abs/2011.00362)
+## [Problems](#content)
 ### [Computer Vision](#content)
 1. **[PCL] Prototypical Contrastive Learning of Unsupervised Representations**. ICLR2021. <br />
 Authors:Junnan Li, Pan Zhou, Caiming Xiong, Steven C.H. Hoi. [paper](https://arxiv.org/abs/2005.04966) [code](https://github.com/salesforce/PCL)
