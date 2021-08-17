@@ -29,7 +29,7 @@ Contrastive learning papers at the top conferences, research include, but are no
 </table>
 
 ## PAPERS
-### Survey Papers
+### [Survey Papers](#content)
 1. **A Survey on Contrastive Self-supervised Learning**. <br />
 Authors:Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon. [paper](https://arxiv.org/abs/2011.00362)
 ### Computer Vision
