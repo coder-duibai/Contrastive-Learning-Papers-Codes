@@ -67,6 +67,19 @@ Authors:Nils Rethmeier, Isabelle Augenstein. [paper](https://openreview.net/foru
 8. **Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval**. ICLR2021. <br />
 Authors:Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul Bennett, Junaid Ahmed, Arnold Overwijk. [paper](https://arxiv.org/abs/2007.00808)
 
+### Language Contrastive Learning
+
+1. **Distributed Representations of Words and Phrases and their Compositionality**. 2013NIPS. <br />
+Authors:Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean. [Paper](https://arxiv.org/abs/1310.4546)
+
+2. **An efficient framework for learning sentence representations**.<br />
+Authors:Lajanugen Logeswaran, Honglak Lee. [Paper](https://arxiv.org/abs/1803.02893)
+3. **XLNet: Generalized Autoregressive Pretraining for Language Understanding**.<br /> 
+Authors:Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le. [Paper](https://arxiv.org/abs/1906.08237)
+- A Mutual Information Maximization Perspective of Language Representation Learning. [[Paper]](https://arxiv.org/abs/1910.08350)
+
+- InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training. [[Paper]](https://arxiv.org/abs/2007.07834)
+
 ### Graph
 1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
 Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
