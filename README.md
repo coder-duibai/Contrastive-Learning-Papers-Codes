@@ -48,6 +48,10 @@ Authors:Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phi
 Authors:Minguk Kang, Jaesik Park. [paper](https://arxiv.org/abs/2006.12681) [code](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
 20. **[SpCL] Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID**. NIPS2020. <br />
 Authors:Yixiao Ge, Feng Zhu, Dapeng Chen, Rui Zhao, Hongsheng Li. [paper](https://arxiv.org/abs/2006.02713) [code](https://github.com/yxgeee/SpCL)
+### NLP
+1. **[CALM] Pre-training Text-to-Text Transformers for Concept-centric Common Sense**. ICLR2021. <br />
+Authors:Wangchunshu Zhou, Dong-Ho Lee, Ravi Kiran Selvam, Seyeon Lee, Xiang Ren. [paper](https://openreview.net/forum?id=3k20LAiHYL2) [code](https://github.com/INK-USC/CALM)
+
 
 ### Graph
 1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
