@@ -48,7 +48,7 @@ Authors:Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phi
 Authors:Minguk Kang, Jaesik Park. [paper](https://arxiv.org/abs/2006.12681) [code](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
 
 ### Graph
-1. **Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
+1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
 Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
 
 
