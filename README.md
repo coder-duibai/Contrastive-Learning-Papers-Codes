@@ -15,7 +15,7 @@ Contrastive learning papers at the top conferences, research include, but are no
 	<td>&emsp;<a href=#audio>2.2 Audio</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#video-multimodal-problem>2.3 Videos & Multimodal</a></td>
+	<td>&emsp;<a href=#video&multimodal>2.3 Videos & Multimodal</a></td>
 	<td>&emsp;<a href=#NLP>2.4 NLP</a></td>
 </tr>
 <tr>
