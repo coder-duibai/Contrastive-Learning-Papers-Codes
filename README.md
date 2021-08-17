@@ -158,5 +158,6 @@ Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
 Authors:Taesung ParkAlexei A. Efros, Richard ZhangJun-Yan Zhu. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_19)
 
 ## About Me
-你好，我是对白。目前是一位大厂算法工程师，也是一位本科独立创业并拿过数百万融资的小哥哥。日常在[知乎](https://www.zhihu.com/people/coder_duibai)和微信分享算法知识、创业心得和人生感悟，
+你好，我是对白。目前是一位大厂算法工程师，也是一位本科独立创业并拿过数百万融资的小哥哥。日常在[知乎](https://www.zhihu.com/people/coder_duibai)和微信分享算法知识、创业心得和人生感悟。欢迎关注我的微信公众号，后台回复关键词【对比学习】，获取对比学习最新论文合集（包含以上论文）。
+
 ![加载失败](https://github.com/lijinze9456yy000/awesome-contrastive-learning-papers-codes/blob/main/Wechat.jpeg)
