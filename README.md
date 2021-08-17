@@ -6,7 +6,7 @@
 Contrastive learning papers at the top conferences, research include, but are not limited to: CV, NLP, etc.
 ## PAPERS
 ### Survey Papers
-1. **A Survey on Contrastive Self-supervised Learning**. [paper](https://arxiv.org/abs/2011.00362)
+1. **A Survey on Contrastive Self-supervised Learning**. Junnan Li, Pan Zhou, Caiming Xiong, Steven C.H. Hoi. [paper](https://arxiv.org/abs/2011.00362)
 ### Computer Vision
 1. **Prototypical Contrastive Learning of Unsupervised Representations**. ICLR2021. [paper](https://arxiv.org/abs/2005.04966) [code](https://github.com/salesforce/PCL)
 2. **Exploring Balanced Feature Spaces for Representation Learning**. ICLR2021. [paper](https://openreview.net/forum?id=OqtLIabPTit)
