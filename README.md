@@ -58,7 +58,10 @@ Authors:Wangchunshu Zhou, Dong-Ho Lee, Ravi Kiran Selvam, Seyeon Lee, Xiang Ren.
 Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
 
 ### Multimodal
-1. ****
+1. **Support-set bottlenecks for video-text representation learning**. ICLR2021. <br />
+Authors:Mandela Patrick, Po-Yao Huang, Yuki Asano, Florian Metze, Alexander Hauptmann, João Henriques, Andrea Vedaldi. [paper](https://arxiv.org/abs/2010.02824)
+2. **Contrastive Learning of Medical Visual Representations from Paired Images and Text**. ICLR2021. <br />
+Authors:Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz. [paper](https://arxiv.org/abs/2010.00747)
 
 
 
