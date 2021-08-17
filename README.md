@@ -26,10 +26,6 @@ Contrastive learning papers at the top conferences, research include, but are no
 	<td>&emsp;<a href=#job-shop-scheduling-problem>2.7 Adversarial Learning</a></td>
 	<td>&emsp;<a href=#bin-packing-problem>2.8 Applications</a></td>
 </tr>
-<tr>
-	<td>&emsp;<a href=#car-dispatch>2.19 Car Dispatch</a></td>
-<td>&ensp;</td>
-</tr>
 </table>
 
 ## PAPERS
