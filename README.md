@@ -76,7 +76,8 @@ Authors:Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean. [Pa
 Authors:Lajanugen Logeswaran, Honglak Lee. [Paper](https://arxiv.org/abs/1803.02893)
 3. **XLNet: Generalized Autoregressive Pretraining for Language Understanding**.<br /> 
 Authors:Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le. [Paper](https://arxiv.org/abs/1906.08237)
-- A Mutual Information Maximization Perspective of Language Representation Learning. [[Paper]](https://arxiv.org/abs/1910.08350)
+4. **A Mutual Information Maximization Perspective of Language Representation Learning**. 
+Authors:Lingpeng Kong, Cyprien de Masson d'Autume, Wang Ling, Lei Yu, Zihang Dai, Dani Yogatama. [Paper](https://arxiv.org/abs/1910.08350)
 
 - InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training. [[Paper]](https://arxiv.org/abs/2007.07834)
 
