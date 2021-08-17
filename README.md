@@ -12,7 +12,7 @@ Contrastive learning papers at the top conferences, research include, but are no
 
 <tr>
 	<td>&emsp;<a href=#computer-vision>2.1 Computer Vision</a></td>
-	<td>&emsp;<a href=#audio-problem>2.2 Audio</a></td>
+	<td>&emsp;<a href=#audio>2.2 Audio</a></td>
 </tr>
 <tr>
 	<td>&emsp;<a href=#video-multimodal-problem>2.3 Videos & Multimodal</a></td>
