@@ -7,44 +7,24 @@ Contrastive learning papers at the top conferences, research include, but are no
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#survey-papers">1. Survey Papers</a></td></tr> 
 <tr><td colspan="2"><a href="#problems">2. Problems</a></td></tr> 
 
 <tr>
-	<td>&emsp;<a href=#graph-matching>2.1 Graph Matching (GM)</a></td>
-	<td>&emsp;<a href=#quadratic-assignment-problem>2.2 Quadratic Assignment Problem (QAP)</a></td>
+	<td>&emsp;<a href=#graph-matching>2.1 Computer Vision</a></td>
+	<td>&emsp;<a href=#quadratic-assignment-problem>2.2 Audio</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#travelling-salesman-problem>2.3 Travelling Salesman Problem (TSP)</a></td>
-	<td>&emsp;<a href=#maximal-cut>2.4 Maximal Cut</a></td>
+	<td>&emsp;<a href=#travelling-salesman-problem>2.3 Videos & Multimodal</a></td>
+	<td>&emsp;<a href=#maximal-cut>2.4 NLP</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#vehicle-routing-problem>2.5 Vehicle Routing Problem (VRP)</a></td>
-	<td>&emsp;<a href=#computing-resource-allocation>2.6 Computing Resource Allocation</a></td>
+	<td>&emsp;<a href=#vehicle-routing-problem>2.5 Language Contrastive Learning</a></td>
+	<td>&emsp;<a href=#computing-resource-allocation>2.6 Graph</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#job-shop-scheduling-problem>2.7 Job Shop Scheduling Problem (JSSP)</a></td>
-	<td>&emsp;<a href=#bin-packing-problem>2.8 Bin Packing Problem (BPP)</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#graph-edit-distance>2.9 Graph Edit Distance (GED)</a></td>
-	<td>&emsp;<a href=#graph-coloring>2.10 Graph Coloring</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#maximal-common-subgraph>2.11 Maximal Common Subgraph (MCS)</a></td>
-	<td>&emsp;<a href=#influence-maximization>2.12 Influence Maximization</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#maximal-independent-set>2.13 Maximal Independent Set (MIS)</a></td>
-	<td>&emsp;<a href=#mixed-integer-programming>2.14 Mixed Integer Programming</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#causal-discovery>2.15 Causal Discovery</a></td>
-	<td>&emsp;<a href=#game-theoretic-semantics>2.16 Game Theoretic Semantics</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#boolean-satisfiability>2.17 Boolean Satisfiability (SAT)</a></td>
-	<td>&emsp;<a href=#differentiable-optimization>2.18 Differentiable Optimization</a></td>
+	<td>&emsp;<a href=#job-shop-scheduling-problem>2.7 Adversarial Learning</a></td>
+	<td>&emsp;<a href=#bin-packing-problem>2.8 Applications</a></td>
 </tr>
 <tr>
 	<td>&emsp;<a href=#car-dispatch>2.19 Car Dispatch</a></td>
