@@ -157,3 +157,5 @@ Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
 1. **Contrastive Learning for Unpaired Image-to-Image Translation**.<br />
 Authors:Taesung ParkAlexei A. Efros, Richard ZhangJun-Yan Zhu. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_19)
 
+## About Me
+!(https://github.com/lijinze9456yy000/awesome-contrastive-learning-papers-codes/edit/main/README.md)
