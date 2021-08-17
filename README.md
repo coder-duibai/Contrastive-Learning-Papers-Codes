@@ -46,12 +46,15 @@ Authors:Yuwen Xiong, Mengye Ren, Raquel Urtasun. [paper](https://arxiv.org/abs/2
 Authors:Yonglong Tian, Chen Sun, Ben Poole, Dilip Krishnan, Cordelia Schmid, Phillip Isola. [paper](https://arxiv.org/abs/2005.10243)
 19. **[ContraGAN] ContraGAN: Contrastive Learning for Conditional Image Generation**. NIPS2020. <br />
 Authors:Minguk Kang, Jaesik Park. [paper](https://arxiv.org/abs/2006.12681) [code](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
+20. **[SpCL] Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID**. NIPS2020. <br />
+Authors:Yixiao Ge, Feng Zhu, Dapeng Chen, Rui Zhao, Hongsheng Li. [paper](https://arxiv.org/abs/2006.02713) [code](https://github.com/yxgeee/SpCL)
 
 ### Graph
 1. **[GraphCL] Graph Contrastive Learning with Augmentations**. NIPS2020. <br />
 Authors:Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3fe230348e9a12c13120749e3f9fa4cd-Abstract.html)
 
-
+### Multimodal
+1. ****
 
 
 
