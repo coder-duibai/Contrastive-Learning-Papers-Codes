@@ -8,9 +8,9 @@ Contrastive learning papers at the top conferences, research include, but are no
 ### Survey Papers
 1. **A Survey on Contrastive Self-supervised Learning**. [paper](https://arxiv.org/abs/2011.00362)
 ### Computer Vision
-1. **[PCL]Prototypical Contrastive Learning of Unsupervised Representations**. ICLR2021. <br />
+1. **[PCL] Prototypical Contrastive Learning of Unsupervised Representations**. ICLR2021. <br />
 Authors:Junnan Li, Pan Zhou, Caiming Xiong, Steven C.H. Hoi. [paper](https://arxiv.org/abs/2005.04966) [code](https://github.com/salesforce/PCL)
-2. **[BalFeat]Exploring Balanced Feature Spaces for Representation Learning**. ICLR2021. <br />
+2. **[BalFeat] Exploring Balanced Feature Spaces for Representation Learning**. ICLR2021. <br />
 Authors:Bingyi Kang, Yu Li, Sa Xie, Zehuan Yuan, Jiashi Feng. [paper](https://openreview.net/forum?id=OqtLIabPTit)
 3. **MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering**. ICLR2021. <br />
 Authors:Tsung Wei Tsai, Chongxuan Li, Jun Zhu. [paper](https://openreview.net/forum?id=gV3wdEOGy_V) [code](https://github.com/TsungWeiTsai/MiCE)
