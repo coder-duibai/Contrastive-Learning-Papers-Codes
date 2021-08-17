@@ -128,4 +128,7 @@ Authors:Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang. [Paper](https://ar
 1. **Contrastive Learning with Adversarial Examples**. NIPS2020. <br />
 Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
 
+### Applications
+1. **Contrastive Learning for Unpaired Image-to-Image Translation**.<br />
+Authors:Taesung ParkAlexei A. Efros, Richard ZhangJun-Yan Zhu. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_19)
 
