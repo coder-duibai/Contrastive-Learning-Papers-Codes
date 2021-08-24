@@ -2,10 +2,11 @@
 
 # Awesome Contrastive Learning Papers&Codes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A comprehensive list of awesome Contrastive Learning Papers&amp;Codes.
-![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+
 Contrastive learning papers at the top conferences, research include, but are not limited to: CV, NLP, Audio, Video, Multimodal, Graph, Language, etc.
 ## [Content](#content)
 
+![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey Papers</a></td></tr> 
 <tr><td colspan="2"><a href="#problems">2. Problems</a></td></tr> 
