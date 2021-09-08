@@ -26,7 +26,10 @@ Contrastive learning papers at the top conferences, research include, but are no
 </tr>
 <tr>
 	<td>&emsp;<a href=#adversarial-learning>2.7 Adversarial Learning</a></td>
-	<td>&emsp;<a href=#applications>2.8 Applications</a></td>
+	<td>&emsp;<a href=#applications>2.8 Recommendation</a></td>
+</tr>
+<tr>
+	<td>&emsp;<a href=#recommendation>2.9 Applications</a></td>
 </tr>
 </table>
 
@@ -152,6 +155,15 @@ Authors:Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang. [Paper](https://ar
 ### [Adversarial Learning](#content)
 1. **Contrastive Learning with Adversarial Examples**. NIPS2020. <br />
 Authors:Chih-Hui Ho, Nuno Vasconcelos. [paper](https://arxiv.org/abs/2010.12050)
+
+
+### [Recommendation](#content)
+1. **Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation**. AAAI2021. <br />
+Authors:Xin Xia, Hongzhi Yin, Junliang Yu, Qinyong Wang, Lizhen Cui, Xiangliang Zhang. [paper](https://arxiv.org/abs/2012.06852) [code](https://github.com/xiaxin1998/DHCN)
+2. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation**. WWW2021. <br />
+Authors:Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang. [paper](https://arxiv.org/abs/2101.06448) [code](https://github.com/Coder-Yu/QRec)
+3. **Self-supervised Graph Learning for Recommendation**. SIGIR2021. <br />
+Authors:Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie. [paper](https://arxiv.org/abs/2010.10783) [code](https://github.com/wujcan/SGL)
 
 ### [Applications](#content)
 1. **Contrastive Learning for Unpaired Image-to-Image Translation**.<br />
