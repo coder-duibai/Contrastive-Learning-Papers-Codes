@@ -128,6 +128,19 @@ Authors:Liqun Chen, Yizhe Zhang, Dianqi Li, Chenyang Tao, Dong Wang, Lawrence Ca
 Authors:Nils Rethmeier, Isabelle Augenstein. [paper](https://openreview.net/forum?id=_cadenVdKzF)
 8. **Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval**. ICLR2021. <br />
 Authors:Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul Bennett, Junaid Ahmed, Arnold Overwijk. [paper](https://arxiv.org/abs/2007.00808)
+9. **Self-Supervised Contrastive Learning for Efficient User Satisfaction Prediction in Conversational Agents**. NAACL2021. <br />
+Authors:Mohammad Kachuee, Hao Yuan, Young-Bum Kim, Sungjin Lee. [paper](https://arxiv.org/abs/2010.11230)
+10. **SOrT-ing VQA Models : Contrastive Gradient Learning for Improved Consistency**. NAACL2021. <br />
+Authors:Sameer Dharur, Purva Tendulkar, Dhruv Batra, Devi Parikh, Ramprasaath R. Selvaraju. [paper](https://aclanthology.org/2021.naacl-main.248/)
+11. **Supporting Clustering with Contrastive Learning**. NAACL2021. <br />
+Authors:Dejiao Zhang, Feng Nan, Xiaokai Wei, Shangwen Li, Henghui Zhu, Kathleen McKeown, Ramesh Nallapati, Andrew Arnold, Bing Xiang. [paper](https://arxiv.org/abs/2103.12953)
+12. **Understanding Hard Negatives in Noise Contrastive Estimation**. NAACL2021. <br />
+Authors:Wenzheng Zhang, Karl Stratos. [paper](https://arxiv.org/abs/2104.06245)
+13. **Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis**. NAACL2021. <br />
+Authors:Hirokazu Kiyomaru, Sadao Kurohashi. [paper](https://aclanthology.org/2021.naacl-main.442/)
+14. **Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach**. NAACL2021. <br />
+Authors:Yue Yu, Simiao Zuo, Haoming Jiang, Wendi Ren, Tuo Zhao, Chao Zhang. [paper](https://arxiv.org/abs/2010.07835)
+
 
 ### [Language Contrastive Learning](#content)
 
