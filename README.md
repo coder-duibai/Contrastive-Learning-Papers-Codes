@@ -8,6 +8,8 @@ Contrastive learning papers at the top conferences, research include, but are no
 ## [Content](#content)
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-embedding.svg?color=blue)
+[![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-graph-classification.svg)](https://github.com/benedekrozemberczki/awesome-graph-classification/archive/master.zip)
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey Papers</a></td></tr> 
 <tr><td colspan="2"><a href="#problems">2. Problems</a></td></tr> 
